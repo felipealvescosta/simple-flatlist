@@ -16,15 +16,12 @@ Uma simples implementação de uma flatlist para mostrar nomes de pessoas
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Iniciando o Projeto
 
 ### Pré-requisitos
 * React Native
 
-### Installation
+### Instalação
 
 1. Clone o projeto
 ```sh
@@ -48,7 +45,7 @@ yarn ios
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Felipe Alves - [@felpsacosta](https://instagram.com/felpsacosta) - contato@felipealvescosta.com
 
